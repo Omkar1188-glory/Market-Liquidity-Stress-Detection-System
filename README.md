@@ -177,6 +177,20 @@ By combining statistical normalization, composite scoring, and regime classifica
 
 ---
 
+## 📸 Screenshots of the Project
+
+Here is the screenshots of project:
+
+<img src="Images/Screenshot 2026-03-03 195012.png" width="800">
+<br><br>
+<img src="Images/Screenshot 2026-03-03 195745.png" width="800">
+<br><br>
+<img src="Images/Screenshot 2026-03-03 200305.png" width="800">
+<br><br>
+<img src="Images/Screenshot 2026-03-03 212656.png" width="800">
+
+---
+
 ## 🧑‍💻 Author
 
 * **Omkar Kadam**
