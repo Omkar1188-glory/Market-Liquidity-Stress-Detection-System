@@ -177,4 +177,9 @@ By combining statistical normalization, composite scoring, and regime classifica
 
 ---
 
-👤 Author: Omkar Kadam  
+## 🧑‍💻 Author
+
+* **Omkar Kadam**
+* 📍 Mumbai, India
+* 📧 [Omkar78789@gmail.com](mailto:Omkar78789@gmail.com)
+* 🔗 LinkedIn: https://www.linkedin.com/in/omkar-kadam-5b493b298/
